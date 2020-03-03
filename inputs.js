@@ -101,8 +101,6 @@ class Inputs extends Component {
     )
   }
 }
-
-
 export default Inputs
 const styles = StyleSheet.create({
 
