@@ -21,16 +21,7 @@ import {
 } from 'react-native';
 
 class Inputs extends Component {
-  // constructor(props) {
-  //   super(props);
-  //   this.state = { data: { emailAddress: "example@gmail.com" } };
-  //   this._onPressButton = this._onPressButton.bind(this)
-  // }
-  // _onPressButton() {
-  //   const validationResult = validate(this.state.data, constraints);
-  //   // validationResult is undefined if there are no errors
-  //   this.setState({ errors: validationResult });
-  // }
+
   state =
     {
       email: '',
